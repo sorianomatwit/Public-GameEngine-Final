@@ -1,0 +1,3 @@
+WINDOW MailmanMayhem 960 540
+ASSETS ./assets.tsv
+Font Orbitron

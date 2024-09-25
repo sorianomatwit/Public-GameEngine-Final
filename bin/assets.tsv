@@ -1,0 +1,76 @@
+Asset Type	Asset Name	Asset Path	Frames	Speed	Scale
+Texture	MEGASTAND	./assets/textures/megaStand.png	1	1	2
+Texture	MEGARUN	./assets/textures/megaRun.png	3	5	2
+Font	Orbitron	./assets/fonts/Orbitron.tff			
+Texture	Road	./assets/textures/road.png	1	1	1
+Texture	Curved_road	./assets/textures/curved_road.png	1	1	1
+Texture	Grass	./assets/textures/grass.png	1	1	1
+Texture	Fence	./assets/textures/Fence.png	1	1	1
+Texture	Fence_corner	./assets/textures/Fence_corner.png	1	1	1
+Texture	Placeholder	./assets/textures/placeholder.png	1	1	1
+Texture	Road_block	./assets/textures/Road_wall.png	1	1	1
+Texture	House_TR	./assets/textures/House_corner_right.png	1	1	1
+Texture	House_TL	./assets/textures/House_corner_left.png	1	1	1
+Texture	House_BR	./assets/textures/House_body_right.png	1	1	1
+Texture	House_BL	./assets/textures/House_body_left.png	1	1	1
+Texture	Road_block	./assets/textures/Road_block.png	1	1	1
+Texture	Intersection	./assets/textures/intersection.png	1	1	1
+Texture	Dog_house	./assets/textures/Dog_house.png	1	1	1
+Texture	PlayerPlaceholder	./assets/textures/playerPlaceholder.png	1	1	1
+Texture	Player	./assets/textures/Mailman.png	1	1	1
+Texture	Player_Dead	./assets/textures/Mailman_dead.png	1	1	1
+Texture	Barker_eating	./assets/textures/Barker_eating.png	1	1	1
+Texture	Barker_walk_backward	./assets/textures/Barker_walk_backward.png	5	12	1
+Texture	Barker_walk_forward	./assets/textures/Barker_walk_forward.png	5	12	1
+Texture	Barker_walk_left	./assets/textures/Barker_walk_left.png	5	12	1
+Texture	Barker_walk_right	./assets/textures/Barker_walk_right.png	5	12	1
+Texture	Barker_walk_left	./assets/textures/Barker_walk_left.png	5	12	1
+Texture	Chaser_eating	./assets/textures/Chaser_eating.png	4	12	1
+Texture	Chaser_walk_backward	./assets/textures/Chaser_walk_backward.png	5	12	1
+Texture	Chaser_walk_forward	./assets/textures/Chaser_walk_forward.png	5	12	1
+Texture	Chaser_walk_left	./assets/textures/Chaser_walk_left.png	5	12	1
+Texture	Chaser_walk_right	./assets/textures/Chaser_walk_right	5	12	1
+Texture	Mail_Icon	./assets/textures/Mail.png	1	1	1
+Texture	Dog_treat_icon	./assets/textures/Dog_treat.png	1	1	1
+Texture	Fast_car	./assets/textures/Fast_Car.png	1	1	1
+Texture	Circle	./assets/textures/circle.png	1	1	1
+Texture	Heart 	./assets/textures/Heart.png	1	1	1
+Texture	Shield	./assets/textures/shield.png	7	12	1
+Sound	collision	./assets/sound/collision.mp3			
+Sound	chaser_bark1	./assets/sound/chaser_bark1.mp3			
+Sound	chaser_bark2	./assets/sound/chaser_bark2.mp3			
+Sound	barker_bark1	./assets/sound/barker_bark1.mp3			
+Sound	barker_bark2	./assets/sound/barker_bark2.mp3			
+Sound	barker_bark3	./assets/sound/barker_bark3.mp3			
+Sound	chaser_hurt	./assets/sound/chaser_hurt.mp3			
+Sound	barker_hurt	./assets/sound/barker_hurt.mp3			
+Sound	shoot_treat	./assets/sound/shoot_treat.mp3		
+Sound	shoot_mail	./assets/sound/shoot_mail.mp3		
+Sound	house_hit	./assets/sound/house_hit.mp3			
+Sound	menu_select	./assets/sound/menu_select.mp3			
+Sound	car_destroyed	./assets/sound/car_destroyed.mp3			
+Sound	player_hurt1	./assets/sound/player_hurt1.mp3		
+Sound	player_hurt2	./assets/sound/player_hurt2.mp3			
+Sound	power_up1	./assets/sound/power_up1.mp3			
+Sound	power_up2	./assets/sound/power_up2.mp3			
+Sound	mail_truck	./assets/sound/mail_truck.mp3			
+Music	gameover	./assets/music/gameover.mp3			
+Music	theme1	./assets/music/theme1.mp3			
+Music	theme_190wpm	./assets/music/theme_190wpm.mp3			
+Texture	IconBG	./assets/textures/IconBg.png	1	1	1
+Texture	IconOverlay	./assets/textures/IconOverlay.png	1	1	1
+Texture	Triple_T_cannon	./assets/textures/triple_treat_canon.png	1	1	1
+Texture	Triple_M_cannon	./assets/textures/triple_mail_canon.png	1	1	1
+Texture	Speed_boost	./assets/textures/Speed_Boost.png	1	1	1
+Texture	White_bar	./assets/textures/White_bar.png	1	1	1
+Texture	Gray_bar	./assets/textures/Gray_bar.png	1	1	1
+Texture	Indicator	./assets/textures/Indicator.png	1	1	0.65
+Texture	Treat_cannon	./assets/textures/Treat_cannon.png	1	1	1
+Texture	Mail_cannon	./assets/textures/Mail_cannon.png	1	1	1
+Texture	Triple_cannon	./assets/textures/triple_canon.png	1	1	1
+Texture	barker_walk_leftwing	./assets/textures/barker_walk_leftwing.png	5	12	1
+Texture	barker_walk_rightwing	./assets/textures/barker_walk_rightwing.png	5	12	1
+Texture	chaser_walk_leftwing	./assets/textures/chaser_walk_leftwing.png	5	12	1
+Texture	chaser_walk_rightwing	./assets/textures/chaser_walk_rightwing.png	5	12	1
+Font	PlayMegaGames	./assets/fonts/VCR_OSD_MONO_1.001.ttf	
+Texture	Intro_logo	./assets/textures/IntroLogo.png	50	2	1	

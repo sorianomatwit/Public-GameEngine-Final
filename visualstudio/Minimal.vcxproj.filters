@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\external\imgui\imgui.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\external\imgui\imgui_demo.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\external\imgui\imgui_draw.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\external\imgui\imgui_stdlib.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\external\imgui\imgui_tables.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\external\imgui\imgui_widgets.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\external\imgui\rlImGui.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\main.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameEngine.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Vec2.cpp">
+      <Filter>Source FIles\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Animation.cpp">
+      <Filter>Source FIles\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Assets.cpp">
+      <Filter>Source FIles\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\InputSystem.cpp">
+      <Filter>Systems\EngineSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\RenderSystem.cpp">
+      <Filter>Systems\EngineSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\EngineComponents.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameComponents.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\CollectCollisionSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Utils.cpp">
+      <Filter>Source FIles\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\CleanCollisionSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\StartMenuScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MenuActionSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\SpawnDogSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\BulletMovementSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameUtils.cpp">
+      <Filter>Source FIles\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\SyncBodiesSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PlayerDrivingSystem.cpp">
+      <Filter>Systems\GameSystems\PlayerSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PlayerMovementSystem.cpp">
+      <Filter>Systems\GameSystems\PlayerSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PlayerShootingSystem.cpp">
+      <Filter>Systems\GameSystems\PlayerSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\CameraFollowPlayerSystem.cpp">
+      <Filter>Systems\GameSystems\PlayerSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\LoadingScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\LoadTrackerSystem.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ChaseSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ParticleSystem.cpp">
+      <Filter>Systems\EngineSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\DrawGuiSystem.cpp">
+      <Filter>Systems\EngineSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PowerUpCollectionSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PowerUpTimerSystem.cpp">
+      <Filter>Systems\GameSystems\PlayerSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AudioSystem.cpp">
+      <Filter>Systems\EngineSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\StunSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\UpdateGuiSystem.cpp">
+      <Filter>Systems\GameSystems\PlayerSystems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\OpeningScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameOverScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\OpeningSceneSystem.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameOverSystem.cpp">
+      <Filter>Systems\GameSystems</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\external\imgui\extras\FA6FreeSolidFontData.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\extras\IconsFontAwesome6.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imconfig.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imgui.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imgui_impl_raylib.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imgui_internal.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imgui_stdlib.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imstb_rectpack.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imstb_textedit.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\imstb_truetype.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\include\raygui.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\include\raylib.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\include\rlgl.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\rlImGui.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\external\imgui\rlImGuiColors.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameEngine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ComponentManager.hpp">
+      <Filter>ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ComponentSet.hpp">
+      <Filter>ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\EntityManager.hpp">
+      <Filter>ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\SystemBase.hpp">
+      <Filter>ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\SceneBase.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Animation.hpp">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Assets.hpp">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Vec2.hpp">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameSystems.hpp">
+      <Filter>Systems\GameSystems\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\EngineSystems.hpp">
+      <Filter>Systems\EngineSystems\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameScene.hpp">
+      <Filter>Scenes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameComponents.hpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\EngineComponents.hpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils.hpp">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\StartMenuScene.hpp">
+      <Filter>Scenes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameUtils.hpp">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\LoadingScene.hpp">
+      <Filter>Scenes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\LoadTrackerSystem.hpp">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\OpeningScene.hpp">
+      <Filter>Scenes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameOverScene.hpp">
+      <Filter>Scenes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\OpeningSceneSystem.hpp">
+      <Filter>Systems</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="External">
+      <UniqueIdentifier>{51c15819-e91b-4b06-83ab-c8cc21ab071b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ECS">
+      <UniqueIdentifier>{a6687b39-645b-4bf4-bef6-eb618fe298ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source FIles">
+      <UniqueIdentifier>{b077e8eb-59c5-4e58-9c54-3c0ad8c0f88d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5c3752cd-70bd-46a8-bcda-ba5dd98c9be7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems">
+      <UniqueIdentifier>{cdbb7f77-84f5-4d7f-a111-c555e829647a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{3603745a-63b6-46b4-849a-69cd4658ac98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source FIles\Utils">
+      <UniqueIdentifier>{91ad0d01-8d51-4b12-8175-980e57e83f11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameSystems">
+      <UniqueIdentifier>{7223cdf7-3d15-42a5-97cd-6ac215cee501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameSystems\Header">
+      <UniqueIdentifier>{f818981d-98a2-4eac-b9f9-ab97ff5800a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\EngineSystems">
+      <UniqueIdentifier>{f68f653b-5c36-4897-87d3-ec3fd7f844ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\EngineSystems\Header">
+      <UniqueIdentifier>{5fd12465-80d3-46c8-9d60-2f86a48e046a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{45834db6-9fc8-4455-8f78-48914fcfdce1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes\Headers">
+      <UniqueIdentifier>{130938df-269a-4dd2-8e02-f9b0369793f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{16de78fe-b8b1-4d4d-a0dd-81a84a9d79a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\GameSystems\PlayerSystems">
+      <UniqueIdentifier>{2068cade-afd5-4a18-ab05-2cf4a32cd4d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
